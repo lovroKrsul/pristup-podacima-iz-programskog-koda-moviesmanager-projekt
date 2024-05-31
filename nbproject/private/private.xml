@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/utils/ValidationUtils.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/View/Movies.fxml</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/Models/Director.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/DAO/SQL/HibernateRepo.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/DAL/Repo.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/DAO/SQL/EntityManagerWrapper.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/MoviesManager.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/ViewModel/MovieViewModel.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/Controllers/MoviesController.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/utils/ImageUtils.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/DAO/SQL/HibernateFactory.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/Models/Movie.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/DAL/RepoFactory.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/utils/FileUtils.java</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/Assets/no_image.png</file>
+            <file>file:/C:/Users/THEMAN/Documents/NetBeansProjects/moviesmanager/src/pppkDZ3/ViewModel/DirectorViewModel.java</file>
+        </group>
+    </open-files>
+</project-private>
